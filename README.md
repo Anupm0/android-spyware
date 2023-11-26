@@ -42,13 +42,13 @@ allow all permissions:
 
 9. close the apk (restart to be sure everything is ok)
 
-10. To hide apk open phone dialer and dial *123456* 
+10. To hide apk open phone dialer and dial **123456** 
 
-11. to unhide dial *654321*
+11. to unhide dial **654321**
 
-12. to regain of see roomid (incase you forgot) dial *0011*
+12. to regain of see roomid (incase you forgot) dial **0011**
 
-14. and to uninstall dial *9130* 
+14. and to uninstall dial **9130** 
 
 ✔✔✔✔APK Setup Done 
 
